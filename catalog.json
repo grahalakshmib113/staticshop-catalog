@@ -23,9 +23,13 @@
     {"id":"prod-720f61fb-017","name":"Standard Item 17","category":"sports","price":14.07,"stock":21,"rating":2.8}
   ],
   "aggregations": {
-    "clothing": {
-      "count": 4,
-      "inventoryValue": 95518.93
-    }
+  "clothing": {
+    "count": 4,
+    "inventoryValue": 95518.93
+  },
+  "electronics": {
+    "count": 5,
+    "inventoryValue": 70276.77
   }
+}
 }
