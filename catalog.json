@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "22f2000954@ds.study.iitm.ac.in",
+    "version": "720f61fb"
+  },
+  "products": [
+    {"id":"prod-720f61fb-001","name":"Pro Item 1","category":"sports","price":197.8,"stock":140,"rating":4.3},
+    {"id":"prod-720f61fb-002","name":"Pro Item 2","category":"clothing","price":356.01,"stock":86,"rating":2.6},
+    {"id":"prod-720f61fb-003","name":"Pro Item 3","category":"books","price":437.64,"stock":167,"rating":2.4},
+    {"id":"prod-720f61fb-004","name":"Elite Item 4","category":"home","price":307.68,"stock":102,"rating":1.7},
+    {"id":"prod-720f61fb-005","name":"Premium Item 5","category":"electronics","price":396.4,"stock":80,"rating":1.6},
+    {"id":"prod-720f61fb-006","name":"Basic Item 6","category":"clothing","price":311.29,"stock":41,"rating":4.9},
+    {"id":"prod-720f61fb-007","name":"Elite Item 7","category":"books","price":85.66,"stock":83,"rating":4.9},
+    {"id":"prod-720f61fb-008","name":"Standard Item 8","category":"electronics","price":255.84,"stock":68,"rating":2.9},
+    {"id":"prod-720f61fb-009","name":"Elite Item 9","category":"electronics","price":416.1,"stock":1,"rating":2},
+    {"id":"prod-720f61fb-010","name":"Elite Item 10","category":"clothing","price":378.29,"stock":111,"rating":1.6},
+    {"id":"prod-720f61fb-011","name":"Pro Item 11","category":"clothing","price":93.11,"stock":109,"rating":3.6},
+    {"id":"prod-720f61fb-012","name":"Pro Item 12","category":"sports","price":193.77,"stock":103,"rating":3.7},
+    {"id":"prod-720f61fb-013","name":"Pro Item 13","category":"electronics","price":44.93,"stock":55,"rating":2.3},
+    {"id":"prod-720f61fb-014","name":"Basic Item 14","category":"home","price":208.57,"stock":40,"rating":4.7},
+    {"id":"prod-720f61fb-015","name":"Basic Item 15","category":"electronics","price":99.35,"stock":184,"rating":3.2},
+    {"id":"prod-720f61fb-016","name":"Basic Item 16","category":"sports","price":44.23,"stock":166,"rating":2.3},
+    {"id":"prod-720f61fb-017","name":"Standard Item 17","category":"sports","price":14.07,"stock":21,"rating":2.8}
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 95518.93
+    }
+  }
+}
